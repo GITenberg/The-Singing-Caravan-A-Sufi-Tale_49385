@@ -1,10 +1,16 @@
 _repo: The-Singing-Caravan-A-Sufi-Tale_49385
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49385-h/images/cover_caravan.jpg
 creator:
   author:
     agent_name: Vansittart, Robert
     gutenberg_agent_id: '45306'
     url: http://www.gutenberg.org/2009/agents/45306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49385#The-Singing-Caravan-A-Sufi-Tale
 gutenberg_issued: '2015-07-07'
 gutenberg_type: Text
 identifiers:
